@@ -2008,7 +2008,7 @@ var FrontGuide = {
                 'Name': 'BugMan',
                 'Title': '潜心修炼',
                 'Href': 'https://8gm.github.io/',
-		'New':'1'
+		"New":"1"
             }]
             }],
         }]
