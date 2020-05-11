@@ -2006,8 +2006,9 @@ var FrontGuide = {
                 'Href': 'https://kfire.net/'
             },{
                 'Name': 'BugMan',
-                'Title': 'BugMan',
-                'Href': 'https://8gm.github.io/'
+                'Title': '潜心修炼',
+                'Href': 'https://8gm.github.io/',
+		'New':'1'
             }]
             }],
         }]
