@@ -1,6 +1,6 @@
 var FrontGuide = {
     "main": [{
-        "pageT1": "安全圈",
+        "pageT1": "BugMan导航页",
         "pageC1": [{
             "pageT2": "安全社区",
             "pageC2": [{
