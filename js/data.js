@@ -1,6 +1,6 @@
 var FrontGuide = {
     "main": [{
-        "pageT1": "BugMan导航页",
+        "pageT1": "安全圈",
         "pageC1": [{
             "pageT2": "安全社区",
             "pageC2": [{
@@ -1580,9 +1580,9 @@ var FrontGuide = {
                  'Title': 'Xip io网',
                  'Href': 'http://xip.io/'
             },  {
-                 'Name': 'virustotal',
-                 'Title': '威胁情报查询',
-                 'Href': 'https://www.virustotal.com/'
+                 'Name': '潮牌导航',
+                 'Title': '潮牌导航',
+                 'Href': 'https://anseong.fun/#5'
             },  {
                  'Name': '口红色号识别',
                  'Title': '口红颜色可视化',
@@ -2001,14 +2001,9 @@ var FrontGuide = {
                 'Title': '攻防无绝对,技术无黑白',
                 'Href': 'https://blog.yuntest.org'
             }, {
-                'Name': 'K·Fire \'s Blog',
-                'Title': 'K·Fire \'s Blog',
-                'Href': 'https://kfire.net/'
-            },{
                 'Name': 'BugMan',
                 'Title': '潜心修炼',
-                'Href': 'https://8gm.github.io/',
-		"New":"1"
+                'Href': 'https://8gm.github.io/'
             }]
             }],
         }]
