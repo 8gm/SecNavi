@@ -2004,6 +2004,10 @@ var FrontGuide = {
                 'Name': 'K·Fire \'s Blog',
                 'Title': 'K·Fire \'s Blog',
                 'Href': 'https://kfire.net/'
+            },{
+                'Name': 'BugMan',
+                'Title': 'BugMan',
+                'Href': 'https://8gm.github.io/'
             }]
             }],
         }]
