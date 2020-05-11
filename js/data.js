@@ -1580,9 +1580,9 @@ var FrontGuide = {
                  'Title': 'Xip io网',
                  'Href': 'http://xip.io/'
             },  {
-                 'Name': '潮牌导航',
-                 'Title': '潮牌导航',
-                 'Href': 'https://anseong.fun/#5'
+                 'Name': 'virustotal',
+                 'Title': '威胁情报查询',
+                 'Href': 'https://www.virustotal.com/'
             },  {
                  'Name': '口红色号识别',
                  'Title': '口红颜色可视化',
