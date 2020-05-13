@@ -2,7 +2,7 @@ html,body{
     font-family: 'Microsoft JhengHei', Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
     /*font-family: 'Open Sans','Helvetica Neue',Arial,'Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei',sans-serif;*/
     color: #fff;
-    background-color: #3f3f3f;
+    background-color: #fcfcfc;
 }
 .war{
 	width: 90%;
@@ -238,9 +238,9 @@ aside{
 }
 /*logo*/
 .logo{
-	width: 226px;
-	/*margin: 10px 10px 10px 10px;*/
-    height: 83px;
+	width: 70px;
+	margin: 10px 10px 10px 10px;
+    height: 30px;
     float: left;
 }
 /*Top*/
